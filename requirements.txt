@@ -1,0 +1,6 @@
+mcp[cli]
+fastmcp
+prefab-ui
+requests
+google-genai
+python-dotenv
